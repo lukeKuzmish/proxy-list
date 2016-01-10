@@ -7,4 +7,5 @@ Iterates through a list of proxies, provided by text file, to check if they are 
 
 # How to run
 Enter into the directory with the proxy file and the proxy input file
+
 `php text_proxies.php <input_file.txt> [<output_file.txt>]`
